@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil 👋  
 🚀 Aspiring Cloud Engineer | Python Learner | Future HENNGE Intern  
-🎓 Currently pursuing B.Tech CS (3rd Sem)  
+🎓 Currently pursuing B.Tech CS AIML (3rd Sem)  
 ☁️ Learning AWS, Python, Serverless & DevOps  
 🛠️ Projects coming soon...
 
