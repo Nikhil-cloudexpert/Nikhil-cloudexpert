@@ -4,7 +4,16 @@
 ☁️ Learning AWS, Python, Serverless & DevOps  
 🛠️ Projects coming soon...
 
-🌱 Goals for 2025:  
-- Contribute to Open Source  
-- Complete 100 Python Challenges  
-- Crack the HENNGE GIP  
+🌱 Currently learning:
+- Python & Java basics 🐍☕
+- Cloud Computing with AWS ☁️
+
+🚀 Future Goals:
+- Build intelligent applications
+- Contribute to open-source projects
+- Apply for internships like HENNGE 🌍
+
+🛠️ Tech Skills:
+- Python, Java
+- Git & GitHub
+- Basics of Linux and Cloud
