@@ -83,7 +83,7 @@ I aim to grow as a **Cloud Engineer / Cloud-focused Software Engineer**, with a 
 
 ## 📫 Contact
 - GitHub: https://github.com/Nikhil-cloudexpert  
-- LinkedIn: *(add when ready)*  
+- LinkedIn: www.linkedin.com/in/nikhil-singh-87a8b32b7  
 
 ---
 
