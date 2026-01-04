@@ -1,21 +1,90 @@
-# Hi, I'm Nikhil 👋  
-🚀 Aspiring Cloud Engineer | Python Learner | Future HENNGE Intern  
-🎓 Currently pursuing B.Tech CS AIML (4th Sem)  
-☁️ Learning AWS, Azure, Python, Serverless & DevOps  
-🛠️ Projects coming soon...
+# Hi, I’m Nikhil Singh 👋
 
-🌱 Currently learning:
-- Python & Java basics 🐍☕
-- Cloud Computing with AWS ☁️
+🎓 Undergraduate CSE (AI & ML) student  
+☁️ Aspiring Cloud Engineer | Cloud & Data Enthusiast  
+🇯🇵 Interested in research & technical internships in Japan
 
-🚀 Future Goals:
-- Build intelligent applications
-- Contribute to open-source projects
-- Apply for internships like HENNGE 🌍
-- Apply for Internship in Japan.
-- Get international exposure.
+---
 
-🛠️ Tech Skills:
-- Python, Java
+## 👨‍💻 About Me
+I am an undergraduate engineering student with a strong interest in **cloud computing, backend systems, and data technologies**.  
+I enjoy building practical cloud projects, understanding system architecture, and documenting my work clearly.
+
+I have hands-on experience with **AWS and Microsoft Azure**, along with Linux servers, authentication systems, and serverless applications.
+
+---
+
+## 🛠️ Technical Skills
+
+### Cloud Platforms
+- Microsoft Azure (Virtual Machines, Networking)
+- Amazon Web Services (Lambda, API Gateway, DynamoDB, EC2)
+
+### Backend & Systems
+- Linux (Ubuntu)
+- Nginx Web Server
+- LAMP Stack
+- SSH & Server Management
+- Authentication & User Management
+
+### Data & Analytics
+- Power BI
+- SQL
+- Tableau
+
+### Programming & Tools
+- Python
+- Java (basic)
 - Git & GitHub
-- Basics of Linux and Cloud
+- Documentation & Reporting
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Azure VM Static Website Hosting
+- Hosted a static website on an Azure Virtual Machine using Linux and Nginx  
+- Configured networking and security rules (NSG)  
+- Documented the complete setup with architecture and screenshots  
+
+🔗 Repo: https://github.com/Nikhil-cloudexpert/azure-vm-static-website
+
+---
+
+### 🔹 AWS Serverless To-Do Application
+- Built a serverless web application using AWS Lambda and API Gateway  
+- Used DynamoDB for backend data storage  
+- Implemented event-driven architecture  
+
+🔗 Repo: *(to be added)*
+
+---
+
+### 🔹 Authentication System using AWS & LAMP Stack
+- Developed a user authentication system using a LAMP stack  
+- Implemented signup, login, and verification flows  
+- Gained practical backend and security experience  
+
+🔗 Repo: *(to be added)*
+
+---
+
+## 📜 Certifications
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Fundamentals (AI-900)
+- NPTEL Cloud Computing (Elite)
+
+---
+
+## 🎯 Career Goals
+I aim to grow as a **Cloud Engineer / Cloud-focused Software Engineer**, with a strong interest in **research-oriented and technical internships**, especially in **Japan**.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Nikhil-cloudexpert  
+- LinkedIn: *(add when ready)*  
+
+---
+
+⭐ *Thank you for visiting my profile*
