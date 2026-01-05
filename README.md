@@ -65,7 +65,7 @@ I have hands-on experience with **AWS and Microsoft Azure**, along with Linux se
 - Implemented signup, login, and verification flows  
 - Gained practical backend and security experience  
 
-🔗 Repo: *(to be added)*
+🔗 Repo: https://github.com/Nikhil-cloudexpert/cognito-auth-lamp-stack
 
 ---
 
