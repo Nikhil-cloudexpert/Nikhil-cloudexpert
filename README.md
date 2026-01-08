@@ -69,6 +69,16 @@ I have hands-on experience with **AWS and Microsoft Azure**, along with Linux se
 
 ---
 
+### 🔹 Sales Analytics Dashboard using Power BI
+- Built an interactive Power BI dashboard to analyze sales performance  
+- Implemented KPIs, trend analysis, and region/category-wise insights  
+- Cleaned and transformed data using Power Query  
+- Designed the dashboard with interactive filters for dynamic analysis  
+
+🔗 Repo: https://github.com/Nikhil-cloudexpert/Sales-Analytics-Dashboard-using-Power-BI
+
+---
+
 ## 📜 Certifications
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Azure AI Fundamentals (AI-900)
