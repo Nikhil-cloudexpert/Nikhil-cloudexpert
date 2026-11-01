@@ -1,100 +1,108 @@
-# Hi, I’m Nikhil Singh 👋
+# Hi, I'm Nikhil Singh 👋
 
-🎓 Undergraduate CSE (AI & ML) student  
-☁️ Aspiring Cloud Engineer | Cloud & Data Enthusiast  
-🇯🇵 Interested in research & technical internships in Japan
+### Computer Science Undergraduate | Software Engineering | Backend & Cloud Systems
 
----
+I'm a Computer Science undergraduate specializing in AI & ML at GLA University, India, with an interest in building practical software applications and understanding the systems behind them.
+
+I enjoy working on backend logic, APIs, authentication, cloud infrastructure, and projects that connect software development with real-world problems.
+
+I'm currently focusing on strengthening my full-stack development skills, writing maintainable code, and learning how to design, test, and deploy reliable applications.
 
 ## 👨‍💻 About Me
-I am an undergraduate engineering student with a strong interest in **cloud computing, backend systems, and data technologies**.  
-I enjoy building practical cloud projects, understanding system architecture, and documenting my work clearly.
 
-I have hands-on experience with **AWS and Microsoft Azure**, along with Linux servers, authentication systems, and serverless applications.
-
----
+- 🎓 B.Tech in Computer Science and Engineering (AI & ML), GLA University — expected 2028.
+- 🌏 Completed a computer vision research internship at KMITL, Thailand.
+- ☁️ Hands-on project experience with AWS, Microsoft Azure, Linux, and serverless application development.
+- 🔐 Built projects involving REST APIs, user authentication, and cloud service integration.
+- 🧠 Interested in software engineering, backend development, distributed systems, and cloud infrastructure.
+- 📚 Continuously improving my programming, problem-solving, testing, and application development skills.
 
 ## 🛠️ Technical Skills
 
-### Cloud Platforms
-- Microsoft Azure (Virtual Machines, Networking)
-- Amazon Web Services (Lambda, API Gateway, DynamoDB, EC2)
+**Programming:** Python, JavaScript, Java, SQL, PHP  
+**Web Development:** HTML5, CSS3, frontend and backend fundamentals  
+**Backend & APIs:** REST API development, AWS Lambda, API Gateway  
+**Databases:** Amazon DynamoDB, MySQL  
+**Cloud & Systems:** AWS, Microsoft Azure, Linux, Nginx, SSH  
+**Tools:** Git, GitHub, Postman
 
-### Backend & Systems
-- Linux (Ubuntu)
-- Nginx Web Server
-- LAMP Stack
-- SSH & Server Management
-- Authentication & User Management
+*Skills and proficiency should be updated to reflect my actual implementation experience.*
 
-### Data & Analytics
-- Power BI
-- SQL
-- Tableau
+## 🚀 Featured Projects
 
-### Programming & Tools
-- Python
-- Java (basic)
-- Git & GitHub
-- Documentation & Reporting
+### 1. AWS Serverless To-Do Application
 
----
+A serverless application demonstrating backend operations, API integration, and persistent task storage.
 
-## 📂 Featured Projects
+- Implemented task-management operations using AWS Lambda.
+- Used API Gateway to expose HTTP endpoints.
+- Integrated DynamoDB for data persistence.
+- Explored serverless architecture and cloud resource configuration.
 
-### 🔹 Azure VM Static Website Hosting
-- Hosted a static website on an Azure Virtual Machine using Linux and Nginx  
-- Configured networking and security rules (NSG)  
-- Documented the complete setup with architecture and screenshots  
+**Technologies:** Python, AWS Lambda, API Gateway, DynamoDB
 
-🔗 Repo: https://github.com/Nikhil-cloudexpert/azure-vm-static-website
+[View Repository](https://github.com/Nikhil-cloudexpert/serverless-todo-app-aws)
 
----
+### 2. Authentication System with AWS Cognito and LAMP
 
-### 🔹 AWS Serverless To-Do Application
-- Built a serverless web application using AWS Lambda and API Gateway  
-- Used DynamoDB for backend data storage  
-- Implemented event-driven architecture  
+A web authentication project integrating a PHP backend with Amazon Cognito.
 
-🔗 Repo: https://github.com/Nikhil-cloudexpert/serverless-todo-app-aws
+- Worked on frontend forms and backend integration.
+- Explored signup, account confirmation, and authentication flows.
+- Organized application code into frontend, backend, and configuration components.
+- Focused on configuration management and secure handling of credentials.
 
----
+**Technologies:** PHP, HTML, CSS, AWS Cognito, Apache
 
-### 🔹 Authentication System using AWS & LAMP Stack
-- Developed a user authentication system using a LAMP stack  
-- Implemented signup, login, and verification flows  
-- Gained practical backend and security experience  
+[View Repository](https://github.com/Nikhil-cloudexpert/cognito-auth-lamp-stack)
 
-🔗 Repo: https://github.com/Nikhil-cloudexpert/cognito-auth-lamp-stack
+### 3. Azure VM Static Website Hosting
 
----
+A cloud deployment project involving a Linux virtual machine and Nginx.
 
-### 🔹 Sales Analytics Dashboard using Power BI
-- Built an interactive Power BI dashboard to analyze sales performance  
-- Implemented KPIs, trend analysis, and region/category-wise insights  
-- Cleaned and transformed data using Power Query  
-- Designed the dashboard with interactive filters for dynamic analysis  
+- Configured an Azure virtual machine.
+- Set up network security rules and SSH access.
+- Installed and configured Nginx.
+- Deployed and verified a static website.
 
-🔗 Repo: https://github.com/Nikhil-cloudexpert/Sales-Analytics-Dashboard-using-Power-BI
+**Technologies:** Microsoft Azure, Ubuntu, Nginx, HTML, CSS
 
----
+[View Repository](https://github.com/Nikhil-cloudexpert/azure-vm-static-website)
 
-## 📜 Certifications
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure AI Fundamentals (AI-900)
-- NPTEL Cloud Computing (Elite)
+### 4. BeanVisionAI — Coffee Bean Quality Assessment
 
----
+A computer vision project developed through a multi-stage machine-learning pipeline.
 
-## 🎯 Career Goals
-I aim to grow as a **Cloud Engineer / Cloud-focused Software Engineer**, with a strong interest in **research-oriented and technical internships**, especially in **Japan**.
+- Used YOLOv8 for instance segmentation.
+- Extracted visual features using DINOv2.
+- Developed an MLP-based classifier for seven bean categories.
+- Explored model evaluation, error analysis, and ONNX export.
 
----
+**Technologies:** Python, PyTorch, YOLOv8, DINOv2, ONNX
 
-## 📫 Contact
-- GitHub: https://github.com/Nikhil-cloudexpert  
-- LinkedIn: www.linkedin.com/in/nikhil-singh-87a8b32b7  
+[View Repository](https://github.com/Nikhil-cloudexpert/BeanVision_AI)
 
----
+## 🔬 Research Experience
 
-⭐ *Thank you for visiting my profile*
+**Computer Vision Research Intern — KMITL, Thailand**
+
+June–July 2026
+
+Worked on a computer vision project focused on coffee bean quality assessment, including image segmentation, feature extraction, classification, and model evaluation.
+
+This experience strengthened my understanding of machine-learning pipelines, experimentation, and the importance of evaluating models against real data.
+
+## 🎯 Current Focus
+
+- Improving full-stack development fundamentals.
+- Writing cleaner, more maintainable code.
+- Building and testing backend APIs.
+- Learning better software design and debugging practices.
+- Exploring cloud-native application development and deployment.
+
+## 📫 Connect With Me
+
+- GitHub: [Nikhil-cloudexpert](https://github.com/Nikhil-cloudexpert)
+- LinkedIn: [Nikhil Singh](https://www.linkedin.com/in/nikhil-singh-87a8b32b7)
+
+I'm always interested in learning from other developers, discussing engineering problems, and building useful software.
