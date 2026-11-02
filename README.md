@@ -26,7 +26,7 @@ I'm currently focusing on strengthening my full-stack development skills, writin
 **Cloud & Systems:** AWS, Microsoft Azure, Linux, Nginx, SSH  
 **Tools:** Git, GitHub, Postman
 
-*Skills and proficiency should be updated to reflect my actual implementation experience.*
+
 
 ## 🚀 Featured Projects
 
